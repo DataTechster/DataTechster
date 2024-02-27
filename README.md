@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olaide Olabode @DataTechster
 - 👀 I’m interested in data analyis and analytics
 - 🌱 I’m currently learning data science and AI
-- 💞️ I’m looking to collaborate on data nalysis project with Power BI, Excel and SQL
+- 💞️ I’m looking to collaborate on data analysis project with Power BI, Excel and SQL
 - 📫 How to reach me via my mailbox olaideolabode@gmail;
 - or connect with me on any of my social media handle;
 - ![image](https://github.com/DataTechster/DataTechster/assets/136507704/d67f9e36-5e2d-49b4-a349-396fbf74ec51)LinkedIn: www.linkedin.com/in/olaide-olabode;
