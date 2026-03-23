@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analyis and analytics
 - 🌱 I’m currently learning data science and AI
 - 💞️ I’m looking to collaborate on data analysis project with Power BI, Excel and SQL
-- 📫 How to reach me via my mailbox olaideolabode@gmail;
+- 📫 How to reach me via my mailbox olaideolabode@gmail.com;
 - or connect with me on any of my social media handle;
 - ![image](https://github.com/DataTechster/DataTechster/assets/136507704/d67f9e36-5e2d-49b4-a349-396fbf74ec51)LinkedIn: www.linkedin.com/in/olaide-olabode;
 - ![image](https://github.com/DataTechster/DataTechster/assets/136507704/44ea73cb-887c-4f62-a734-e44fc1083c6c) Twitter/X: https://twitter.com/OlaideOlabode1;
